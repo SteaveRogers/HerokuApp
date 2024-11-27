@@ -15,6 +15,7 @@ import java.util.Objects;
 public class InputsTest {
     WebDriver driver;
 
+
     @BeforeMethod
     public void setUp() {
         driver = new ChromeDriver();
